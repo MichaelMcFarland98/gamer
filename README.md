@@ -5,7 +5,7 @@
 With so many group messaging platforms, it can be confusing to know when other members in your team are free to game and what latform they are messaging on.
 That is where GamerTime comes in. With the tap of a button you can let all of your group know you are free and ready to game! 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/f7GYr247MQc)
 
 # Development Environment
 
